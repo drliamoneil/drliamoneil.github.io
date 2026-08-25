@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Glossary"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include toc %}
+
+# Glossary
 
 ## Locations of key files/directories
 
