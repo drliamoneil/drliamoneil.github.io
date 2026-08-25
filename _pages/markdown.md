@@ -14,9 +14,10 @@ The following glossary contains definitions and recommended readings of key term
 Motive
 :   A reason for a human behavior. 
   * General
-    * [Allport, G. W. (1937). The Functional Autonomy of Motives. The American Journal of Psychology, 50(1/4), 141–156](https://doi.org/10.2307/1416626)
-    * [McClelland, D. C. (1985). How motives, skills, and values determine what people do. American Psychologist, 40(7), 812–825](https://doi.org/10.1037/0003-066X.40.7.812)
+    * [Allport, G. W. (1937). The functional autonomy of motives. _The American Journal of Psychology_, 50(1/4), 141–156.](https://doi.org/10.2307/1416626)
+    * [McClelland, D. C. (1985). How motives, skills, and values determine what people do. _American Psychologist_, 40(7), 812–825.](https://doi.org/10.1037/0003-066X.40.7.812)
   * Physical Activity
+    * [Ingledew, D. K., & Markland, D. (2008). The role of motives in exercise participation. _Psychology & Health_, 23(7), 807–828.](https://doi.org/10.1080/08870440701405704)
 
 #dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
