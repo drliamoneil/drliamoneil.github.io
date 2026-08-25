@@ -24,7 +24,7 @@ repository               : "drliamoneil/drliamoneil.github.io"
 author:
   # Biographic information
   avatar           : "Headshot_1x1.jpg"
-  name             : "Liam O'Neil"
+  name             : "Liam O'Neil, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "I'm an interdisciplinary scientist conducting developmentally informed exercise and sport psychology research on the motivational dynamics of lifespan physical activity"
   location         : "Boston, MA"
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "drliamoneil"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
