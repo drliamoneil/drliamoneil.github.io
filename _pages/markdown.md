@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-Motive
-:   A reason for a human behavior. 
-  
+## Motive
+Definition: A reason for a human behavior. 
+Readings:
   * General
       * [Allport, G. W. (1937). The functional autonomy of motives. _The American Journal of Psychology_, 50(1/4), 141–156.](https://doi.org/10.2307/1416626)
       * [McClelland, D. C. (1985). How motives, skills, and values determine what people do. _American Psychologist_, 40(7), 812–825.](https://doi.org/10.1037/0003-066X.40.7.812)
