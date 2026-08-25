@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liam O'Neil, PhD - Home"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
