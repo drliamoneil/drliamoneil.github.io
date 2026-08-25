@@ -20,12 +20,6 @@ Motive
       * [Ingledew, D. K., & Markland, D. (2008). The role of motives in exercise participation. _Psychology & Health_, 23(7), 807–828.](https://doi.org/10.1080/08870440701405704)
       * [Ingledew, D. K., Markland, D., & Ferguson, E. (2009). Three levels of exercise motivation. _Applied Psychology: Health and Well-Being_, 1(3), 336–355.](https://doi.org/10.1111/j.1758-0854.2009.01015.x)
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
 ## Unordered Lists (Nested)
 
   * List item one 
