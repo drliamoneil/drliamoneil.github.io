@@ -23,7 +23,6 @@ A reason for a given human behavior.
 
 <details>
   <summary>Readings</summary>
-  
   #### General
   
   [Allport, G. W. (1937). The functional autonomy of motives. _The American Journal of Psychology_, 50(1/4), 141–156.](https://doi.org/10.2307/1416626)
