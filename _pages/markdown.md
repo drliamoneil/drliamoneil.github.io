@@ -13,7 +13,7 @@ Below is a list of definitions and recommended reading for key terms used in my 
 An organism's capacity to interact effectively with its environment.
 <details>
   <summary>Readings</summary> 
-  <h4>Theory</h4>
+  <h3>Theory</h3>
   
   [White, R. W. (1959). Motivation reconsidered: The concept of competence. _Psychological Review_, 66(5), 297–333.](https://doi.org/10.1037/h0040934)
 </details>
