@@ -7,7 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## Actual Competence
+### Actual Competence
+#### Definition
 An organism's capacity to interact effectively with its environment.
 
 Readings
