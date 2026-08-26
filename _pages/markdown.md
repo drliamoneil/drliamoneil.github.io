@@ -7,14 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-{% include toc %}
-
-The following glossary contains definitions of, and recommended reading on, key terms used in my research.
-
 ## Actual Competence
-Definition: An organism's capacity to interact effectively with its environment.
-  * General
-      * White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66(5), 297–333. https://doi.org/10.1037/h0040934
+Definition
+: An organism's capacity to interact effectively with its environment.
+Readings
+: [White, R. W. (1959). Motivation reconsidered: The concept of competence. _Psychological Review_, 66(5), 297–333.](https://doi.org/10.1037/h0040934)
 
 ## Motive
 Definition: A reason for a given human behavior.
