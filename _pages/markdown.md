@@ -9,10 +9,15 @@ redirect_from:
 
 {% include toc %}
 
+The following glossary contains definitions of, and recommended reading on, key terms used in my research.
+
 ## Actual Competence
 Definition: An organism's capacity to interact effectively with its environment.
   * General
       * [White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66(5), 297–333.](https://doi.org/10.1037/h0040934)
+
+## Goal
+Definition: A desired end state.
 
 ## Motive
 Definition: A reason for a given human behavior.
@@ -22,8 +27,3 @@ Definition: A reason for a given human behavior.
   * Physical Activity
       * [Ingledew, D. K., & Markland, D. (2008). The role of motives in exercise participation. _Psychology & Health_, 23(7), 807–828.](https://doi.org/10.1080/08870440701405704)
       * [Ingledew, D. K., Markland, D., & Ferguson, E. (2009). Three levels of exercise motivation. _Applied Psychology: Health and Well-Being_, 1(3), 336–355.](https://doi.org/10.1111/j.1758-0854.2009.01015.x)
-
-***
-**Footnotes**
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
