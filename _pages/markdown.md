@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+Below are definitions of, and recommended reading on, key terms used in my research.
+
 ### Actual Competence
 An organism's capacity to interact effectively with its environment.
 
