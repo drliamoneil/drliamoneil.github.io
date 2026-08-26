@@ -11,13 +11,13 @@ Below is a list of definitions and recommended reading for key terms used in my 
 
 ### Actual Competence
 An organism's capacity to interact effectively with its environment.
-
 <details>
-  <summary>Readings</summary>
+  <summary>Readings</summary> 
   
   #### Theory
-  [White, R. W. (1959). Motivation reconsidered: The concept of competence. _Psychological Review_, 66(5), 297–333.](https://doi.org/10.1037/h0040934)
   
+  [White, R. W. (1959). Motivation reconsidered: The concept of competence. _Psychological Review_, 66(5), 297–333.](https://doi.org/10.1037/h0040934)
+
 </details>
 
 ### Motive
