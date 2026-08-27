@@ -38,7 +38,7 @@ A reason for a given human behavior.
 </details>
 
 ### Self-Efficacy
-A person's judgement of their capability to execute a course of action that is required to produce a given outcome.
+A person's judgement of their capability to execute the behaviors that are required to produce a given outcome.
 <details>
   <summary>Readings</summary>
   <h3>Theory</h3>
