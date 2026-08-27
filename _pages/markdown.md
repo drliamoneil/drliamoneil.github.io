@@ -44,7 +44,7 @@ A reason for a given human behavior.
 </details>
 
 ### Self-Efficacy
-A person's beliefs about their capability to perform behaviors.
+A person's beliefs about their capability to perform specific behaviors.
 <details>
   <summary>Readings</summary>
   <h4>Theory</h4>
