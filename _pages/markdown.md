@@ -43,7 +43,7 @@ A person's judgement of their capability to execute the behaviors that are requi
   <summary>Readings</summary>
   <h3>Theory</h3>
 
-  <font size="1">
+  <font size="2">
   Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215. https://doi.org/10.1037/0033-295X.84.2.191
   </font>
 </details>
