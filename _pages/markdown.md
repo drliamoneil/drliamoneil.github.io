@@ -17,7 +17,6 @@ An organism's capacity to interact effectively with its environment.
   <h4>Theory</h4>
   
   [White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66(5), 297–333.](https://doi.org/10.1037/h0040934)
-
 </details>
 
 ### Motive
