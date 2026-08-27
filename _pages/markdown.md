@@ -36,3 +36,12 @@ A reason for a given human behavior.
   
   Ingledew, D. K., Markland, D., & Ferguson, E. (2009). Three levels of exercise motivation. _Applied Psychology: Health and Well-Being_, 1(3), 336–355. https://doi.org/10.1111/j.1758-0854.2009.01015.x
 </details>
+
+### Self-Efficacy
+A person's judgement of their capability to execute a course of action that is required to produce a given outcome.
+<details>
+  <summary>Readings</summary>
+  <h3>Theory</h3>
+  
+  Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215. https://doi.org/10.1037/0033-295X.84.2.191
+</details>
