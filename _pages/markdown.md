@@ -24,7 +24,6 @@ An organism's capacity to interact effectively with its environment.
 
 ### Motive
 A reason for a given human behavior.
-
 <details>
   <summary>Readings</summary>
   <h4>Theory</h4>
@@ -43,6 +42,28 @@ A reason for a given human behavior.
   </font>
 </details>
 
+### Physical Activity
+Any bodily movement produced by skeletal muscles and resulting in energy expenditure.
+<details>
+  <summary>Readings</summary>
+  <h4>Theory</h4>
+  <font size="2">
+    <p>
+  Caspersen, C. J., Powell, K. E., & Christenson, G. M. (1985). Physical activity, exercise, and physical fitness: Definitions and distinctions for health-related research. Public Health Reports, 100(2), 126–131. </p>
+    <p>
+    Rhodes, R. E., McEwan, D., & Rebar, A. L. (2019). Theories of physical activity behaviour change: A history and synthesis of approaches. Psychology of Sport and Exercise, 42, 100–109. </p>
+  </font>
+  <h4>Application</h4>
+  <font size="2">
+    <p>
+  Bauman, A. E., Reis, R. S., Sallis, J. F., Wells, J. C., Loos, R. J. F., Martin, B. W., & the Lancet Physical
+Activity Series Working Group. (2012). Correlates of physical activity: Why are some people physically
+active and others not? The Lancet, 380,258–271. </p>
+    <p>
+  Gourlan, M., Bernard, P., Bortolon, C., Romain, A. J., Lareyre, O., Carayol, M., Ninot, G., & Boiché, J. (2016). Efficacy of theory-based interventions to promote physical activity. A meta-analysis of randomised controlled trials. Health Psychology Review, 10(1), 50–66. </p>
+  </font>
+</details>
+
 ### Self-Efficacy
 A person's beliefs about their capability to perform specific behaviors.
 <details>
@@ -51,5 +72,10 @@ A person's beliefs about their capability to perform specific behaviors.
   <font size="2">
     <p>
   Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215. </p>
+  </font>
+  <h4>Application</h4>
+  <font size="2">
+    <p>
+  Beauchamp, M. R., Crawford, K. L., & Jackson, B. (2019). Social cognitive theory and physical activity: Mechanisms of behavior change, critique, and legacy. Psychology of Sport and Exercise, 42, 110–117. </p>
   </font>
 </details>
