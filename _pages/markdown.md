@@ -16,7 +16,8 @@ An organism's capacity to interact effectively with its environment.
   <h4>Theory</h4>
   <font size="2">
     <p>
-  Harter, S. (1978). Effectance motivation reconsidered: Toward a developmental model. Human Development, 21(1), 34–64. https://doi.org/10.1159/000271574 </p>
+      
+  [Harter, S. (1978). Effectance motivation reconsidered: Toward a developmental model. Human Development, 21(1), 34–64.](https://doi.org/10.1159/000271574) </p>
     <p>
   White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66(5), 297–333. https://doi.org/10.1037/h0040934 </p>
   </font>
