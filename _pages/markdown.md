@@ -30,8 +30,6 @@ Those bodily movements that are planned, structured, and repetitive, with a purp
   <font size="2">
     <p>
   Caspersen, C. J., Powell, K. E., & Christenson, G. M. (1985). Physical activity, exercise, and physical fitness: Definitions and distinctions for health-related research. Public Health Reports, 100(2), 126–131. </p>
-    <p>
-  White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66(5), 297–333. </p>
   </font>
 </details>
 
