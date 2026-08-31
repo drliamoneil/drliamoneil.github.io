@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /glossary/
 title: "Glossary"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /glossary/
+  - /glossary.html
 ---
 
 Below is a list of definitions and recommended reading for key terms used in my research.
@@ -19,6 +19,26 @@ An organism's capacity to interact effectively with its environment.
   Harter, S. (1978). Effectance motivation reconsidered: Toward a developmental model. <i>Human Development</i>, <i>21</i>(1), 34–64. </p>
     <p>
   White, R. W. (1959). Motivation reconsidered: The concept of competence. <i>Psychological Review</i>, <i>66</i>(5), 297–333. </p>
+  </font>
+</details>
+
+### Affect
+A state of pleasure or displeasure with some degree of arousal.
+<details>
+  <summary>Readings</summary> 
+  <h4>Theory</h4>
+  <font size="2">
+    <p> 
+  Harter, S. (1978). Effectance motivation reconsidered: Toward a developmental model. <i>Human Development</i>, <i>21</i>(1), 34–64. </p>
+    <p>
+  White, R. W. (1959). Motivation reconsidered: The concept of competence. <i>Psychological Review</i>, <i>66</i>(5), 297–333. </p>
+  </font>
+  <h4>Application</h4>
+  <font size="2">
+    <p>
+  Ekkekakis, P. (2013). <i>The measurement of affect, mood, and emotion: A guide for health-behavioral research</i>. Cambridge University Press. </p>
+    <p>
+  Rhodes, R. E., & Kates, A. (2015). Can the affective response to exercise predict future motives and physical activity behavior? A systematic review of published evidence. <i>Annals of Behavioral Medicine</i>, <i>49</i>(5), 715–731. </p>
   </font>
 </details>
 
