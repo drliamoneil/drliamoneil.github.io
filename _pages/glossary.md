@@ -28,9 +28,9 @@ A state of pleasure or displeasure with some degree of arousal.
   <h4>Theory</h4>
   <font size="2">
     <p> 
-  Harter, S. (1978). Effectance motivation reconsidered: Toward a developmental model. <i>Human Development</i>, <i>21</i>(1), 34–64. </p>
+  Barrett, L. F., & Bliss-Moreau, E. (2009). Affect as a psychological primitive. In M. P. Zanna (Ed.), <i>Advances in experimental social psychology</i> (Vol. 41, pp. 167–218). </p>
     <p>
-  White, R. W. (1959). Motivation reconsidered: The concept of competence. <i>Psychological Review</i>, <i>66</i>(5), 297–333. </p>
+  Russell, J. A. (1980). A circumplex model of affect. <i>Journal of Personality and Social Psychology</i>, <i>39</i>(6), 1161–1178. </p>
   </font>
   <h4>Application</h4>
   <font size="2">
