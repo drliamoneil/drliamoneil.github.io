@@ -3,7 +3,6 @@ permalink: /glossary/
 title: "Glossary"
 author_profile: true
 redirect_from: 
-  - /glossary/
   - /glossary.html
 ---
 
