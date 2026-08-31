@@ -42,7 +42,7 @@ A state of pleasure or displeasure with some degree of arousal.
 </details>
 
 ### Exercise
-Those bodily movements that are planned, structured, and repetitive, with a purpose of improving or maintaining physical fitness.
+Bodily movements that are planned, structured, and repetitive, with a purpose of improving or maintaining physical fitness.
 <details>
   <summary>Readings</summary> 
   <h4>Theory</h4>
