@@ -52,6 +52,24 @@ Bodily movements that are planned, structured, and repetitive, with a purpose of
   </font>
 </details>
 
+### Goal
+A mental representation of a desired end state.
+<details>
+  <summary>Readings</summary> 
+  <h4>Theory</h4>
+  <font size="2">
+    <p>
+  Austin, J. T., & Vancouver, J. B. (1996). Goal constructs in psychology: Structure, process, and content. <i>Psychological Bulletin</i>, <i>120</i>(3), 338–375. </p>
+  </font>
+  <h4>Application</h4>
+  <font size="2">
+    <p>
+  Swann, C., Jackman, P. C., Lawrence, A., Hawkins, R. M., Goddard, S. G., Williamson, O., Schweickle, M. J., Vella, S. A., Rosenbaum, S., & Ekkekakis, P. (2023). The (over)use of SMART goals for physical activity promotion: A narrative review and critique. <i>Health Psychology Review</i>, <i>17</i>(2), 211–226. </p>
+    <p>
+  Swann, C., Rosenbaum, S., Lawrence, A., Vella, S. A., McEwan, D., & Ekkekakis, P. (2021). Updating goal-setting theory in physical activity promotion: A critical conceptual review. <i>Health Psychology Review</i>, <i>15</i>(1), 34–50. </p>
+  </font>
+</details>
+
 ### Motive
 A reason for a given human behavior.
 <details>
