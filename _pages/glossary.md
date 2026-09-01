@@ -42,7 +42,7 @@ A state of pleasure or displeasure with some degree of arousal.
 </details>
 
 ### Exercise
-Bodily movements that are planned, structured, and repetitive, with a purpose of improving or maintaining physical fitness.
+Bodily movements that are planned, structured, and repetitive, with the purpose of improving or maintaining physical fitness.
 <details>
   <summary>Readings</summary> 
   <h4>Theory</h4>
@@ -53,7 +53,7 @@ Bodily movements that are planned, structured, and repetitive, with a purpose of
 </details>
 
 ### Goal
-A mental representation of a desired end state.
+A desired end state.
 <details>
   <summary>Readings</summary> 
   <h4>Theory</h4>
@@ -113,7 +113,7 @@ active and others not? <i>The Lancet</i>, <i>380</i>,258–271. </p>
 </details>
 
 ### Self-Efficacy
-A person's beliefs about their capability to perform specific behaviors.
+A person's beliefs about their capabilities to perform specific behaviors.
 <details>
   <summary>Readings</summary>
   <h4>Theory</h4>
