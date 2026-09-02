@@ -24,7 +24,7 @@ main:
 #    url: /portfolio/
         
     - title: "Stat Corner"
-    url: /year-archive/
+    url: /stat-corner/
     
 #  - title: "CV"
 #    url: /cv/
