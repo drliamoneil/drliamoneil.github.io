@@ -60,6 +60,8 @@ A desired end state.
   <font size="2">
     <p>
   Austin, J. T., & Vancouver, J. B. (1996). Goal constructs in psychology: Structure, process, and content. <i>Psychological Bulletin</i>, <i>120</i>(3), 338–375. </p>
+    <p>
+  Pervin, L. A. (Ed.). (1989). <i>Goal concepts in personality and social psychology</i>. Lawrence Erlbaum. </p>
   </font>
   <h4>Application</h4>
   <font size="2">
