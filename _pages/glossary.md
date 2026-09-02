@@ -122,6 +122,8 @@ A person's belief about their capability to perform a specific behavior.
   <font size="2">
     <p>
   Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. <i>Psychological Review</i>, <i>84</i>(2), 191–215. </p>
+    <p>
+  Bandura, A. (1997). <i>Self-efficacy: The exercise of control</i>. W H Freeman/Times Books/ Henry Holt & Co. </p>
   </font>
   <h4>Application</h4>
   <font size="2">
