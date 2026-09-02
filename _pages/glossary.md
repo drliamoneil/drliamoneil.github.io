@@ -115,7 +115,7 @@ active and others not? <i>The Lancet</i>, <i>380</i>,258–271. </p>
 </details>
 
 ### Self-Efficacy
-A person's beliefs about their capabilities to perform specific behaviors.
+A person's belief about their capability to perform a specific behavior.
 <details>
   <summary>Readings</summary>
   <h4>Theory</h4>
