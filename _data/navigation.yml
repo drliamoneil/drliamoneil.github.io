@@ -23,7 +23,7 @@ main:
 #    - title: "Portfolio"
 #    url: /portfolio/
         
-    - title: "Stat Corner"
+  - title: "Stat Corner"
     url: /stat-corner/
     
 #  - title: "CV"
