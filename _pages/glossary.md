@@ -42,7 +42,7 @@ A state of pleasure or displeasure with some degree of arousal.
 </details>
 
 ### Exercise
-Bodily movements that are planned, structured, and repetitive, with the purpose of improving or maintaining physical fitness.
+A category of physical activities that are planned, structured, and repetitive, with the purpose of improving or maintaining physical fitness.
 <details>
   <summary>Readings</summary> 
   <h4>Theory</h4>
@@ -129,5 +129,21 @@ A person's belief about their capability to perform a specific behavior.
   <font size="2">
     <p>
   Beauchamp, M. R., Crawford, K. L., & Jackson, B. (2019). Social cognitive theory and physical activity: Mechanisms of behavior change, critique, and legacy. <i>Psychology of Sport and Exercise</i>, <i>42</i>, 110–117. </p>
+  </font>
+</details>
+
+### Sport
+A category of physical activities that are competitive, structured, rule governed, and social negotiated with varying levels of governance and organization.
+<details>
+  <summary>Readings</summary>
+  <h4>Theory</h4>
+  <font size="2">
+    <p>
+  Loy, J. W. (1968). The nature of sport: A definitional effort. <i>Quest</i>, <i>10</i>(1), 1-15. </p>
+  </font>
+  <h4>Application</h4>
+  <font size="2">
+    <p>
+  Khan, K. M., Thompson, A. M., Blair, S. N., Sallis, J. F., Powell, K. E., Bull, F. C., & Bauman, A. E. (2012). Sport and exercise as contributors to the health of nations. <i>The Lancet</i>, <i>380</i>(9836), 59–64. </p>
   </font>
 </details>
