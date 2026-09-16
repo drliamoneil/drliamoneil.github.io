@@ -41,6 +41,15 @@ A state of pleasure or displeasure with some degree of arousal.
   </font>
 </details>
 
+### Competence Motivation
+The direction and energization of human behavior as a function of actual or perceived competence.
+<details>
+  <summary>Readings</summary> 
+  <h4>Theory</h4>
+  <font size="2">
+    <p>
+    Elliot, A. J., Dweck, C. S., & Yeager, D. S. (Eds.). (2017). <i>Handbook of competence and motivation: Theory and application</i> (2nd ed.). The Guilford Press. </p>
+
 ### Exercise
 A category of physical activities that are structured and repetitive, with the purpose of improving or maintaining physical fitness.
 <details>
