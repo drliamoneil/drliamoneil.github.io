@@ -49,6 +49,8 @@ The direction and energization of human behavior as a function of actual or perc
   <font size="2">
     <p>
     Elliot, A. J., Dweck, C. S., & Yeager, D. S. (Eds.). (2017). <i>Handbook of competence and motivation: Theory and application</i> (2nd ed.). The Guilford Press. </p>
+    </font>
+</details>
 
 ### Exercise
 A category of physical activities that are structured and repetitive, with the purpose of improving or maintaining physical fitness.
