@@ -42,7 +42,7 @@ A state of pleasure or displeasure with some degree of arousal.
 </details>
 
 ### Exercise
-A category of physical activities that are planned, structured, and repetitive, with the purpose of improving or maintaining physical fitness.
+A category of physical activities that are structured and repetitive, with the purpose of improving or maintaining physical fitness.
 <details>
   <summary>Readings</summary> 
   <h4>Theory</h4>
@@ -133,7 +133,7 @@ A person's belief about their capability to perform a specific behavior.
 </details>
 
 ### Sport
-A category of physical activities that are competitive, structured, rule governed, and social negotiated with varying levels of governance and organization.
+A category of physical activities that are competitive and rule governed, with varying levels of governance and organization.
 <details>
   <summary>Readings</summary>
   <h4>Theory</h4>
