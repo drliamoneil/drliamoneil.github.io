@@ -140,6 +140,8 @@ A category of physical activities that are competitive, structured, rule governe
   <font size="2">
     <p>
   Loy, J. W. (1968). The nature of sport: A definitional effort. <i>Quest</i>, <i>10</i>(1), 1-15. </p>
+    <p>
+  Dorsch, T. E., Smith, A. L., Blazo, J. A., Coakley, J., Côté, J., Wagstaff, C. R. D., Warner, S., King, M. Q. (2022). Toward an Integrated Understanding of the Youth Sport System. <i>Research Quarterly for Exercise and Sport</i>, <i>93</i>(1), 105–119. </p>
   </font>
   <h4>Application</h4>
   <font size="2">
