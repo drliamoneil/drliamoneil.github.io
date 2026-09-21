@@ -41,6 +41,17 @@ A state of pleasure or displeasure with some degree of arousal.
   </font>
 </details>
 
+### Arousal
+A basic feeling and property of affect ranging from calm to agitated.
+<details>
+  <summary>Readings</summary> 
+  <h4>Theory</h4>
+  <font size="2">
+    <p> 
+  Kuppens, P., Tuerlinckx, F., Russell, J. A., & Barrett, L. F. (2013). The relation between valence and arousal in subjective experience. <i>Psychological Bulletin</i>, <i>139</i>(4), 917–940. </p>
+</font>
+</details>
+
 ### Competence Motivation
 The direction and energization of human behavior as a function of actual or perceived competence.
 <details>
@@ -157,4 +168,17 @@ A category of physical activities that are competitive and rule governed, with v
     <p>
   Khan, K. M., Thompson, A. M., Blair, S. N., Sallis, J. F., Powell, K. E., Bull, F. C., & Bauman, A. E. (2012). Sport and exercise as contributors to the health of nations. <i>The Lancet</i>, <i>380</i>(9836), 59–64. </p>
   </font>
+</details>
+
+### Valence
+A basic feeling and property of affect ranging from pleasant to unpleasant.
+<details>
+  <summary>Readings</summary> 
+  <h4>Theory</h4>
+  <font size="2">
+    <p> 
+  Barrett, L. F. (2006). Valence is a basic building block of emotional life. <i>Journal of Research in Personality</i>, <i>40</i>(1), 35–55. </p>
+    <p> 
+  Kuppens, P., Tuerlinckx, F., Russell, J. A., & Barrett, L. F. (2013). The relation between valence and arousal in subjective experience. <i>Psychological Bulletin</i>, <i>139</i>(4), 917–940. </p>
+</font>
 </details>
