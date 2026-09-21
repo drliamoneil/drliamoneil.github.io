@@ -48,6 +48,8 @@ A basic feeling and property of affect ranging from calm to agitated.
   <h4>Theory</h4>
   <font size="2">
     <p> 
+  Duffy, E. (1957). The psychological significance of the concept of "arousal" or "activation." <i>Psychological Review</i>, <i>64</i>(5), 265–275. </p>
+    <p> 
   Kuppens, P., Tuerlinckx, F., Russell, J. A., & Barrett, L. F. (2013). The relation between valence and arousal in subjective experience. <i>Psychological Bulletin</i>, <i>139</i>(4), 917–940. </p>
 </font>
 </details>
