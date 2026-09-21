@@ -117,9 +117,7 @@ Any bodily movement produced by skeletal muscles and resulting in energy expendi
   <h4>Application</h4>
   <font size="2">
     <p>
-  Bauman, A. E., Reis, R. S., Sallis, J. F., Wells, J. C., Loos, R. J. F., Martin, B. W., & the Lancet Physical
-Activity Series Working Group. (2012). Correlates of physical activity: Why are some people physically
-active and others not? <i>The Lancet</i>, <i>380</i>,258–271. </p>
+  Bauman, A. E., Reis, R. S., Sallis, J. F., Wells, J. C., Loos, R. J. F., Martin, B. W., & the Lancet Physical Activity Series Working Group. (2012). Correlates of physical activity: Why are some people physically active and others not? <i>The Lancet</i>, <i>380</i>,258–271. </p>
     <p>
   Gourlan, M., Bernard, P., Bortolon, C., Romain, A. J., Lareyre, O., Carayol, M., Ninot, G., & Boiché, J. (2016). Efficacy of theory-based interventions to promote physical activity. A meta-analysis of randomised controlled trials. <i>Health Psychology Review</i>, <i>10</i>(1), 50–66. </p>
   </font>
@@ -152,7 +150,7 @@ A category of physical activities that are competitive and rule governed, with v
     <p>
   Loy, J. W. (1968). The nature of sport: A definitional effort. <i>Quest</i>, <i>10</i>(1), 1-15. </p>
     <p>
-  Dorsch, T. E., Smith, A. L., Blazo, J. A., Coakley, J., Côté, J., Wagstaff, C. R. D., Warner, S., King, M. Q. (2022). Toward an Integrated Understanding of the Youth Sport System. <i>Research Quarterly for Exercise and Sport</i>, <i>93</i>(1), 105–119. </p>
+  Dorsch, T. E., Smith, A. L., Blazo, J. A., Coakley, J., Côté, J., Wagstaff, C. R. D., Warner, S., King, M. Q. (2022). Toward an integrated understanding of the youth sport system. <i>Research Quarterly for Exercise and Sport</i>, <i>93</i>(1), 105–119. </p>
   </font>
   <h4>Application</h4>
   <font size="2">
