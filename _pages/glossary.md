@@ -42,7 +42,7 @@ A state of pleasure or displeasure with some degree of arousal.
 </details>
 
 ### Arousal
-A basic feeling and property of affect ranging from calm to agitated.
+A basic feeling and property of affect, ranging from activated to deactivated.
 <details>
   <summary>Readings</summary> 
   <h4>Theory</h4>
@@ -173,7 +173,7 @@ A category of physical activities that are competitive and rule governed, with v
 </details>
 
 ### Valence
-A basic feeling and property of affect ranging from pleasant to unpleasant.
+A basic feeling and property of affect, ranging from pleasant to unpleasant.
 <details>
   <summary>Readings</summary> 
   <h4>Theory</h4>
